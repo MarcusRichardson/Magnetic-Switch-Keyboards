@@ -1,4 +1,4 @@
-# The Rise of the Magnetic Keyboard: What You Need to Know
+# Magnetic Keyboards: with Adjustable Actuation
 
 **Magnetic keyboards**, often built with Hall Effect switches, are becoming increasingly popular among gamers and enthusiasts. Unlike traditional mechanical or optical keyboards, magnetic keyboards use a magnetic field to detect keystrokes. This allows for advanced features like **adjustable actuation** and **Rapid Trigger**, making them ideal for competitive gaming and ultra-fast inputs.
 
@@ -20,16 +20,6 @@ A **magnetic keyboard** refers to a keyboard that uses **Hall Effect switches**.
   Some keyboards allow per-key actuation profiles and multi-function key behavior depending on press depth.
 
 ---
-
-## How Magnetic Keyboards Differ
-
-| Feature | Magnetic Keyboards | Mechanical Keyboards | Optical Keyboards |
-|--------|--------------------|----------------------|-------------------|
-| Key Detection | Magnetic field | Physical contact | Light beam |
-| Durability | Very high | Medium | High |
-| Customization | High (actuation, rapid trigger) | Low | Medium |
-| Latency | Extremely low | Low | Low |
-| Maintenance | Low (no contact) | Medium | Medium |
 
 Most **magnetic keyboards** are **hot-swappable**, letting you change switches easily. They also come in various layouts (60%, 65%, 75%, TKL, full-sized), and some models include **wireless connectivity**, although wired use is generally preferred for lower latency.
 
